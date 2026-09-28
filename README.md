@@ -20,7 +20,7 @@ This is a fork of HeRoBot adapted to work on Minecraft 26.2. The original mod wa
 ## Credits
 
 - **Original mod**: [HerobaneNair/HeRoBot](https://github.com/HerobaneNair/HeRoBot) by HerobaneNair
-- **26.2 port**: [DoctoCapybara](https://github.com/OctoFiles)
+- **26.2 port**: [OctoFiles](https://github.com/OctoFiles)
 
 ## License
 
